@@ -362,6 +362,7 @@ body {
 
     .welcome {
         height: 110vh;
+        min-height: 730px;
     }
 
     .welcome__button {
